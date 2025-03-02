@@ -12,3 +12,7 @@
   * images_gendalf - папка, в который содержатся изображения Гендальфа для отправки в телеграмм бот
 
 Имя телеграмм бота с проектом: @test_medical1_bot
+
+<p align="center">
+  <img src="images_gendalf/s-l1600.jpg" width="400">
+</p>
